@@ -16,7 +16,7 @@ html{
 body{
     overflow-x: hidden;
     /* background: linear-gradient(110deg,rgb(250, 249, 249),rgb(124, 76, 212)); */
-    background: url("http://source.unsplash.com/1980x1080/?sky/?clouds");
+    background: url("http://source.unsplash.com/1980x1080/?sky/?clouds/?weather");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
