@@ -64,6 +64,9 @@ input{
     text-transform: uppercase;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+h1{
+font-size:25px;
+}
 #btn{
     border: 0;
     outline: 0;
@@ -161,7 +164,7 @@ img:hover{
     text-transform: uppercase;
     position: relative;
     color: rgb(19, 7, 250);
-    font-size: 35px;
+    font-size: 30px;
    top: 0%;
   
     display: flex;
